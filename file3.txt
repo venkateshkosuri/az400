@@ -1,1 +1,1 @@
-file3 feature branch
+file3 feature branch squash
