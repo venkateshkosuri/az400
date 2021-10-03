@@ -1,1 +1,1 @@
-'az400 git test 2 publish to git' 
+'az400 git test 2 publish to git 3-way check' 
