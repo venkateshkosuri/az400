@@ -1,1 +1,1 @@
-'az400 git test 1 check commit github check feature squash' 
+'az400 git test 1 check commit github check feature squash' git repos integration
